@@ -15,6 +15,7 @@ npm install -g pm2
 pm2 --version
 ```
 
+
 ### 2. Configure PM2 Startup
 ```bash
 # Generate and configure startup script
